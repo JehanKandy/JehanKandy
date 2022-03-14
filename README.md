@@ -9,6 +9,7 @@
 - 💬 Ask me about anything in developing
 - 📫 How to reach me: +94 71 1758 851 (WhatsApp) / jehankandy@gmail.com
 - 😄 Pronouns: JehanKandy
+- Rank :- https://stardev.io/developers/jehankandy
 
 
 
