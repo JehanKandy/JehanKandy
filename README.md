@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently Studing in Sri Lanka International Buddhist Academy (SIBA)
+- 🔭 I’m currently studying in Sri Lanka International Buddhist Academy (SIBA)
 - 🌱 I’m currently learning A Bachelor of Science in Information Technology
 - 👯 I’m looking to collaborate with who need my help
 - 🤔 I’m looking for help with Android Development
