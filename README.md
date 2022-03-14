@@ -10,3 +10,6 @@
 - 📫 How to reach me: +94 71 1758 851 (WhatsApp) / jehankandy@gmail.com
 - 😄 Pronouns: JehanKandy
 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
