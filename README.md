@@ -11,9 +11,9 @@
 - 😄 Pronouns: JehanKandy
 - Rank :- https://stardev.io/developers/jehankandy
 - my online projects
-- http://jkandycars.great-site.net/index.php
-- http://learnjk.great-site.net/?i=1
-- 
+- - http://jkandycars.great-site.net/index.php
+- - http://learnjk.great-site.net/?i=1
+
 
 
 
