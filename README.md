@@ -14,7 +14,7 @@
 - - http://learnjk.great-site.net/?i=1 --- Online School Management System -- December 2021
 - - http://jkandycars.great-site.net/index.php --- Online Car Buying System -- February  2022
 - - http://jkreload.great-site.net/index.php --- Online Mobile Reload System -- March 2022
-- - jkvoting.great-site.net --- Online Voting System --- April 2022
+- - http://jkvoting.great-site.net/ --- Online Voting System --- April 2022
 - - own Bootstrap Site --- Start to Develop in April 2022
 
 
