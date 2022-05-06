@@ -16,7 +16,8 @@
 - - http://jkreload.great-site.net/index.php --- Online Mobile Reload System -- March 2022
 - - http://jkvoting.great-site.net/ --- Online Voting System --- April 2022
 - - http://jkbootstrap.great-site.net/ --- own Bootstrap framework --- <b>Start to Develop on April 2022</b> version 1.0 
-- - - || current Version 1.0 - 2022 April || Latest Update on : 6 May 2022 - Developing ver 1.1 
+- - - Current Version 1.0 - 2022 April 
+- - - Latest Update on : 6 May 2022 - Developing ver 1.1 
 
 
 
