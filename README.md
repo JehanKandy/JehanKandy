@@ -18,7 +18,7 @@
 - - http://jkbootstrap.great-site.net/ --- own Bootstrap framework --- <b>Start to Develop on April 2022</b> version 1.0 
 - - - Current Version 1.0 - 2022 April 
 - - - Latest Update on : 7 May 2022 - Developing version 1.1 
-- - https://github.com/JehanKandy/Online-Email-Sending-System-1.0 -- Email Sending System -- 
+- - https://github.com/JehanKandy/Online-Email-Sending-System-1.0 -- Email Sending System -- UNDER DEVELOPMENT
 - - - Started on 9 May 2022
 
 
