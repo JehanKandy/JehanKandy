@@ -17,7 +17,8 @@
 - - http://jkvoting.great-site.net/ --- Online Voting System --- April 2022
 - - http://jkbootstrap.great-site.net/ --- own Bootstrap framework --- <b>Start to Develop on April 2022</b> version 1.0 
 - - - Current Version 1.0 - 2022 April 
-- - - Full system can download for this link : 
+- - - I host this project in infinityfree free web hosting service, in free account there is no SMTP sever
+- - - Full system can download for this link : https://github.com/JehanKandy/JK-BOOTSTRAP-ver-1.0---Full-Project-
 - - - Latest Update on : 11 May 2022 - Developing version 1.1 
 - - https://github.com/JehanKandy/Online-Email-Sending-System-1.0 -- Email Sending System -- UNDER DEVELOPMENT
 - - - Started on 9 May 2022
