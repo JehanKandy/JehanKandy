@@ -19,7 +19,7 @@
 - - - Current Version 1.0 - 2022 April 
 - - - I host this project in infinityfree free web hosting service, in free account there is no SMTP sever
 - - - Full system can download from this link : https://github.com/JehanKandy/JK-BOOTSTRAP-ver-1.0---Full-Project-
-- - - Latest Update on : 11 May 2022 - Developing version 1.1 
+- - - Latest Update on : 16 May 2022 - Developing version 1.1 
 - - https://github.com/JehanKandy/Online-Email-Sending-System-1.0 -- Email Sending System -- UNDER DEVELOPMENT
 - - - Started on 9 May 2022
 
