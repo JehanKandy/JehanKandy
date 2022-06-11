@@ -27,3 +27,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <a href="https://stardev.io/developers/JehanKandy"><img alt="Check out JehanKandy's profile on stardev.io" src="https://stardev.io/developers/JehanKandy/badge/languages/global.svg" /></a>
+
+[![Check out JehanKandy's profile on stardev.io](https://stardev.io/developers/JehanKandy/badge/languages/global.svg)](https://stardev.io/developers/JehanKandy)
