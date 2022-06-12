@@ -1,4 +1,5 @@
 ### Hi I'm JehanKandy 👋
+  Student of St.Sylvester's College Kandy
 
 
 
