@@ -1,6 +1,7 @@
 ### Hi I'm JehanKandy 👋
-  Student of St.Sylvester's College Kandy
-
+  Student of Sri Lanka International Buddhist Academy (SIBA)
+  Past Student of St.Sylvester's College Kandy
+  
 
 ************************************************
 
