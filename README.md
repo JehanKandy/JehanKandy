@@ -31,9 +31,9 @@
 
 
 
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"
 <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehankandy&show_icons=true&theme=radical">
 
 
 <a href="https://stardev.io/developers/JehanKandy"><img alt="Check out JehanKandy's profile on stardev.io" src="https://stardev.io/developers/JehanKandy/badge/languages/global.svg" /></a>
