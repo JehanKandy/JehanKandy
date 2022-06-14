@@ -30,11 +30,12 @@
 - - - Started on 9 May 2022
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehankandy&langs_count=10)](https://github.com/jehankandy/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehankandy&show_icons=true&theme=radical">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehankandy&langs_count=10)](https://github.com/jehankandy/github-readme-stats)
+
 
 
 <a href="https://stardev.io/developers/JehanKandy"><img alt="Check out JehanKandy's profile on stardev.io" src="https://stardev.io/developers/JehanKandy/badge/languages/global.svg" /></a>
