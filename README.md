@@ -30,7 +30,7 @@
 - - - Started on 9 May 2022
 
 
-[![paypal.me/jehankandy](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/jehankandy)
+[![jehankandy](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/jehankandy)
 
 <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
