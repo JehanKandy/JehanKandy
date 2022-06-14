@@ -7,19 +7,14 @@
 
 </div>
 </div>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <br><br>
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+
 
   Student of Sri Lanka International Buddhist Academy (SIBA) <br>
   Past Student of St.Sylvester's College Kandy
-  
+
 
 ************************************************
 
