@@ -29,7 +29,7 @@
 - - https://github.com/JehanKandy/Online-Email-Sending-System-1.0 -- Email Sending System -- UNDER DEVELOPMENT
 - - - Started on 9 May 2022
 
-[![jehankandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jehankandy)](https://github.com/jehankandy/github-readme-stats)
+![jehankandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jehankandy&show_icons=true)
 
 <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
