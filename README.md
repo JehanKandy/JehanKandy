@@ -9,7 +9,7 @@
 </div>
 
 <br><br>
-  [![LinkedIn][linkedin-shield]]
+[![LinkedIn][linkedin-shield]]
 
 
   Student of Sri Lanka International Buddhist Academy (SIBA) <br>
