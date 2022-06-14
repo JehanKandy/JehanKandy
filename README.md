@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ### Hi I'm JehanKandy 👋
+  <b> Hi I'm JehanKandy 👋</b>
 </div>
 
 <div id="badges">
