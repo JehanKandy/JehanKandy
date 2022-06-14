@@ -30,9 +30,7 @@
 - - - Started on 9 May 2022
 
 
-
-[![Sparkline](https://stars.medv.io/JehanKandy/badges.svg)](https://stars.medv.io/JehanKandy/badges)
-
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![jehankandy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jehankandy&theme=blue-green)](https://github.com/JehanKandy/github-readme-streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
