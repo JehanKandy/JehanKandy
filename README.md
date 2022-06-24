@@ -38,9 +38,9 @@
 - - - Latest Update on : 24 May 2022 - Developing version 1.1 
 - - https://github.com/JehanKandy/Online-Email-Sending-System-1.0 -- Email Sending System -- UNDER DEVELOPMENT
 - - - Started on 9 May 2022
-- Campus 
-- Wallpaper
-- E bill
+- Campus Enrollment System - Start to Develop
+- Wallpaper Download System
+- E bill Alart System
 
 
 ### My Stats
