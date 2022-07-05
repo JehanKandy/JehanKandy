@@ -52,14 +52,36 @@
 
 
 ### My Stats
-  name: Full-year calendar
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.isocalendar.fullyear.svg
-    token: ${{ secrets.METRICS_TOKEN }}
-    base: ""
-    plugin_isocalendar: yes
-    plugin_isocalendar_duration: full-year
+name: 📅 Isometric commit calendar
+category: github
+description: |
+  This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.
+examples:
+  +full year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg
+  half year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg
+index: 0
+supports:
+  - user
+scopes:
+  - public_access
+inputs:
+
+  plugin_isocalendar:
+    description: |
+      Enable isocalendar plugin
+    type: boolean
+    default: no
+
+  plugin_isocalendar_duration:
+    description: |
+      Time range
+      - `half-year`: 180 days
+      - `full-year`: 1 year
+    type: string
+    default: half-year
+    values:
+      - half-year
+      - full-year
 
 
 
