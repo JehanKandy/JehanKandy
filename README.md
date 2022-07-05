@@ -54,9 +54,6 @@
 
 
 ### My Stats
-Get your [PageSpeed API key](https://developers.google.com/speed/docs/insights/v4/first-app).
-
-Use Gmail with Google's [app passwords](https://support.google.com/accounts/answer/185833).
 
 
 [![jehankandy's github trophy](https://github-profile-trophy.vercel.app/?username=jehankandy&row=2)](https://github.com/jehankandy/github-profile-trophy)
