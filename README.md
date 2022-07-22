@@ -15,7 +15,7 @@
 
 ************************************************
 
-Develped By Jehankandy
+
 
 ### About Me
 - 🔭 I’m currently studying in Sri Lanka International Buddhist Academy (SIBA)
