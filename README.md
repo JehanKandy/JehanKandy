@@ -16,8 +16,6 @@
 ************************************************
 
 
-
-
 ### About Me
 - 🔭 I’m currently studying in Sri Lanka International Buddhist Academy (SIBA)
 - 🌱 I’m currently learning A Bachelor of Science in Information Technology
