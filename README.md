@@ -38,7 +38,7 @@
 - - - I host this project in infinityfree free web hosting service, in free account there is no SMTP sever
 - - - Full system can download from this link : https://github.com/JehanKandy/JK-BOOTSTRAP-ver-1.0---Full-Project-
 - - - Latest Update on : 24 May 2022 - Developing version 1.1 
-- - https://github.com/JehanKandy/Online-Email-Sending-System-1.0 -- Email Sending System -- UNDER DEVELOPMENT
+- - https://github.com/JehanKandy/Online-Email-Sending-System-1.0 -- Email Sending System
 - - - Started on 9 May 2022
 - Campus Enrollment System - Start to Develop on 11 June 2022
 - - https://github.com/JehanKandy/Complete-Campus-Enrollment-System
