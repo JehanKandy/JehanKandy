@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <b> Hi I'm JehanKandy 👋</b><br><br>
+  <b> Hi all I'm JehanKandy 👋</b><br><br>
   <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -8,9 +8,11 @@
 </div>
 </div>
 
+
 <br><br>
   Student of Sri Lanka International Buddhist Academy (SIBA) <br>
   Past Student of St.Sylvester's College Kandy
+
 
 
 ************************************************
@@ -39,18 +41,18 @@
 - - https://github.com/JehanKandy/Online-Email-Sending-System-1.0 -- Email Sending System -- UNDER DEVELOPMENT
 - - - Started on 9 May 2022
 - Campus Enrollment System - Start to Develop on 11 June 2022
+- - https://github.com/JehanKandy/Complete-Campus-Enrollment-System
 - Wallpaper Download System - Start to Develop on 18 June 2022
 - - https://github.com/JehanKandy/Image-Site
 - E bill Alart System -Start to Develop on 21 June 2022
 - - https://github.com/JehanKandy/Complete-Campus-Enrollment-System
-- Online Vehicle Registration
-
-
 
 
 
 ### My Stats
-[![jehankandy's github trophy](https://github-profile-trophy.vercel.app/?username=jehankandy&row=2)](https://github.com/jehankandy/github-profile-trophy)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jehankandy)](https://github.com/jehankandy/github-profile-trophy)
 
 
 [![jehankandy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jehankandy&theme=blue-green)](https://github.com/JehanKandy/github-readme-streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
@@ -60,6 +62,7 @@
 
 ### My Rankings
 <a href="https://stardev.io/developers/JehanKandy"><img alt="Check out JehanKandy's profile on stardev.io" src="https://stardev.io/developers/JehanKandy/badge/languages/global.svg" /></a>
+
 
 <a href="https://stardev.io/developers/JehanKandy"><img alt="Check out JehanKandy's profile on stardev.io" src="https://stardev.io/developers/JehanKandy/badge/languages/country.svg" /></a>
 
