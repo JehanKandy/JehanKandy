@@ -10,7 +10,6 @@
 
 </div>
 </div>
-![profile 3d](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 <br><br>
   Student of Sri Lanka International Buddhist Academy (SIBA) <br>
