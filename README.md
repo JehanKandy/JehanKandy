@@ -6,8 +6,6 @@
 
 
 
-
-
 </div>
 </div>
 
@@ -70,6 +68,9 @@
 [![jehankandy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jehankandy&theme=blue-green)](https://github.com/JehanKandy/github-readme-streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehanKandy&theme=github_dark"/>
+
+[![JehanKandy's github activity graph](https://activity-graph.herokuapp.com/graph?username=JehanKandy&theme=gotham)](https://github.com/JehanKandy/github-readme-activity-graph&theme=github)
+
 
 ### Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehankandy&langs_count=10&show_icons=true&theme=radical">
