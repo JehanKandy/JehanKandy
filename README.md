@@ -14,6 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
+[<img height="29" src = "https://img.shields.io/badge/Whatsapp-000000.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
 
 
 
