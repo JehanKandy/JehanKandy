@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <b> Hi all I'm JehanKandy 👋</b><br><br>
   <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-
 
 
 </div>
@@ -70,6 +67,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehanKandy&theme=github_dark"/>
 
 [![JehanKandy's github activity graph](https://activity-graph.herokuapp.com/graph?username=JehanKandy&theme=gotham)](https://github.com/JehanKandy/github-readme-activity-graph&theme=github)
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JehanKandy&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JehanKandy&theme=github_dark"/>
+
 
 
 ### Used Languages
