@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 
 
+
+
+
 </div>
 </div>
 
@@ -14,9 +17,12 @@
   Past Student of St.Sylvester's College Kandy
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
+
+
 
 ************************************************
-![GitHub metrics](https://metrics.lecoq.io/)
 
 
 ### About Me
@@ -45,7 +51,7 @@
 - Wallpaper Download System - Start to Develop on 18 June 2022
 - - https://github.com/JehanKandy/Image-Site
 - E bill Alart System -Start to Develop on 21 June 2022
-- - https://github.com/JehanKandy/Complete-Campus-Enrollment-System
+- - https://github.com/JehanKandy/Online-Bill-Alert-System
 - Online Video Site System - Start to develop on 3 July 2022 and End up with Project on 17 July 2022
 - - https://github.com/JehanKandy/Online-Video-Site
 - Online Vehicle Registration System - Start to Develop on 29 July 2022 (UNDER-DEVELOPMENT)
