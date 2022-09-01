@@ -3,7 +3,6 @@
   <div id="badges">
   
   
-
 </div>
 </div>
 
