@@ -52,6 +52,8 @@
 - - https://github.com/JehanKandy/Online-Video-Site
 - Project Alpha - Start to Develop on 29 July 2022 (UNDER-DEVELOPMENT)
 - - https://github.com/JehanKandy/Online-Vehicle-Registration-System
+- Online Quize Project - Start to Develop on 01  2022 (UNDER-DEVELOPMENT)
+- - https://github.com/JehanKandy/Online-Vehicle-Registration-System
 
 <br><hr><br>
 
