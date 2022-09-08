@@ -8,7 +8,6 @@
 
 
 
-
 <br><br>
   Student of Sri Lanka International Buddhist Academy (SIBA) <br>
   Past Student of St.Sylvester's College Kandy
