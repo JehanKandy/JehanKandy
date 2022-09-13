@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <b> Hi all I'm JehanKandy 👋</b><br><br>
-  <div id="badges">
-  
+  <div id="badges">  
 
   
 </div>
