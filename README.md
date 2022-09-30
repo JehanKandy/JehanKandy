@@ -20,8 +20,11 @@
   
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 
 
@@ -69,6 +72,7 @@
 
 
 ### My Stats
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jehankandy)](https://github.com/jehankandy/github-profile-trophy)
