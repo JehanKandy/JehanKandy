@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <b> Hi all I'm JehanKandy 👋</b><br><br>
-  <div id="badges">
-
-
-</div>
+  <div id="badges">  
+  
+ </div>
 </div>
 
 <br><br>
@@ -14,13 +13,19 @@
   https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/sri_lanka.md
   
   
+
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
+
 ************************************************
+
 
 
 ### About Me
@@ -66,7 +71,9 @@
 ### My Stats
 
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jehankandy)](https://github.com/jehankandy/github-profile-trophy)
+
 
 
 [![jehankandy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jehankandy&theme=blue-green)](https://github.com/JehanKandy/github-readme-streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
