@@ -20,9 +20,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
-
 ************************************************
 
 
