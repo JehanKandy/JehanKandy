@@ -55,7 +55,7 @@
 - - https://github.com/JehanKandy/Online-Vehicle-Registration-System
 - Online Quize Project - Start to Develop on 01 September 2022 (UNDER-DEVELOPMENT)
 - - https://github.com/JehanKandy/Online-Quiz-System
-- Online Quize Project - Start to Develop on 01 September 2022 (UNDER-DEVELOPMENT)
+- Online GYM Management System - Start to Develop on 23 November 2022 (UNDER-DEVELOPMENT)
 - - https://github.com/JehanKandy/GYM-Management-System
 
 
