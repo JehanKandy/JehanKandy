@@ -56,7 +56,7 @@
 - Online Quize Project - Start to Develop on 01 September 2022 (UNDER-DEVELOPMENT)
 - - https://github.com/JehanKandy/Online-Quiz-System
 - Online Quize Project - Start to Develop on 01 September 2022 (UNDER-DEVELOPMENT)
-- - [https://github.com/JehanKandy/Online-Quiz-System](https://github.com/JehanKandy/GYM-Management-System)
+- - https://github.com/JehanKandy/GYM-Management-System
 
 
 
