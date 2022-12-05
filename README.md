@@ -12,7 +12,13 @@
   View My Rank By GitHub: <br>
 https://commits.top/sri_lanka_public.html
   
-    
+githubUsers.sort(_.followers)
+           .filter(_.location == 'Sri Lanka') 
+           .take(1000)
+           .sort(_.contributions)
+           .take(256)    
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
