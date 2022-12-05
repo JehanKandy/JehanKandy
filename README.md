@@ -12,12 +12,6 @@
   View My Rank By GitHub: <br>
 https://commits.top/sri_lanka_public.html
   
-githubUsers.sort(_.followers)
-           .filter(_.location == 'Sri Lanka') 
-           .take(1000)
-           .sort(_.contributions)
-           .take(256)    
-
 
 
 
