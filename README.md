@@ -10,7 +10,7 @@
   Past Student of St.Sylvester's College Kandy
 
   View My Rank By GitHub: <br>
-  https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/sri_lanka.md
+https://commits.top/sri_lanka_public.html
   
     
 
