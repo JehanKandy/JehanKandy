@@ -13,16 +13,14 @@
 https://commits.top/sri_lanka_public.html
   
 
+![Paradox2405](https://github-readme-stats.vercel.app/api?username=Paradox2405&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
+![Paradox2405](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405&layout=compact&langs_count=6&theme=algolia)
+![Paradox2405](https://github-readme-stats.vercel.app/api/wakatime?username=Paradox2405&layout=default&langs_count=8&theme=algolia&custom_title=Other%20Stats&v=2)
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
-
-
-
-
-
-
 
 
 
