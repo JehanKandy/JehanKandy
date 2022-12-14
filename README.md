@@ -12,12 +12,7 @@
   View My Rank By GitHub: <br>
 https://commits.top/sri_lanka_public.html
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JehanKandy)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Coding Activity
-<p align="center">  
-  <img src="https://wakatime.com/share/@JehanKandy/63d314b6-079d-4cbf-b0d9-7dc74d9afa9b.svg" heigth="600" width="600">
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
