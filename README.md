@@ -12,19 +12,12 @@
   View My Rank By GitHub: <br>
 https://commits.top/sri_lanka_public.html
   
-
-![Paradox2405](https://github-readme-stats.vercel.app/api?username=JehanKandy&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
-![Paradox2405](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox2405&layout=compact&langs_count=6&theme=algolia)
-![Paradox2405](https://github-readme-stats.vercel.app/api/wakatime?username=Paradox2405&layout=default&langs_count=8&theme=algolia&custom_title=Other%20Stats&v=2)
-
-
-
+<figure><embed src="https://wakatime.com/share/@JehanKandy/0a93f00d-6285-44e3-835e-a745f7f9c8f8.svg"></embed></figure>
+<p align="center">
+  <img src="https://wakatime.com/share/@JehanKandy/63d314b6-079d-4cbf-b0d9-7dc74d9afa9b.svg" higth="200">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
-
-
-
 
 
 ************************************************
