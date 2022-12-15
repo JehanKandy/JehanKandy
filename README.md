@@ -16,7 +16,7 @@ https://commits.top/sri_lanka_public.html
 </div>
 
 <div>
-  <img src="[https://wakatime.com/share/@JehanKandy/5464e75f-7bdc-4ae7-866e-f131d9e4d47e.svg](https://wakatime.com/share/@JehanKandy/7b6be400-0cd8-4937-81a0-d6d81b177934.svg)" style="width:700px">
+  <img src="https://wakatime.com/share/@JehanKandy/7b6be400-0cd8-4937-81a0-d6d81b177934.svg" style="width:700px">
 </div>
 
 <div>
