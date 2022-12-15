@@ -16,8 +16,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<div align="center">
-  <img src=""
+<div>
+  <img src="https://wakatime.com/share/@JehanKandy/0de3934a-7118-4385-bf1b-00f27fec16d0.svg">
 </div>
 ************************************************
 
