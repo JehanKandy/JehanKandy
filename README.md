@@ -6,19 +6,21 @@
 </div>
 
 <br><br>
-  Student of Sri Lanka International Buddhist Academy (SIBA) <br>
   Past Student of St.Sylvester's College Kandy
 
   View My Rank By GitHub: <br>
-  https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/sri_lanka.md
+https://commits.top/sri_lanka_public.html
   
-    
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 
 <div>
   <img src="https://wakatime.com/share/@JehanKandy/0de3934a-7118-4385-bf1b-00f27fec16d0.svg">
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
+
 ************************************************
 
 
@@ -56,8 +58,9 @@
 - - https://github.com/JehanKandy/Online-Vehicle-Registration-System
 - Online Quize Project - Start to Develop on 01 September 2022 (UNDER-DEVELOPMENT)
 - - https://github.com/JehanKandy/Online-Quiz-System
-- Online Quize Project - Start to Develop on 01 September 2022 (UNDER-DEVELOPMENT)
-- - https://github.com/JehanKandy/Online-Quiz-System
+- Online GYM Management System - Start to Develop on 23 November 2022 (UNDER-DEVELOPMENT)
+- - https://github.com/JehanKandy/GYM-Management-System
+
 
 
 
