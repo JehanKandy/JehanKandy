@@ -23,9 +23,7 @@ https://commits.top/sri_lanka_public.html
   <img src="https://wakatime.com/share/@JehanKandy/0de3934a-7118-4385-bf1b-00f27fec16d0.svg">
 </div>
 
-<div>
-  <img src="https://wakatime.com/share/@JehanKandy/ba802c92-1aaa-4f5a-94df-eff0301d16f8.svg" style="width:700px">
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
