@@ -13,6 +13,11 @@ https://commits.top/sri_lanka_public.html
   
 
 
+
+<div>
+  <img src="https://wakatime.com/share/@JehanKandy/0de3934a-7118-4385-bf1b-00f27fec16d0.svg">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 
@@ -55,6 +60,7 @@ https://commits.top/sri_lanka_public.html
 - - https://github.com/JehanKandy/Online-Quiz-System
 - Online GYM Management System - Start to Develop on 23 November 2022 (UNDER-DEVELOPMENT)
 - - https://github.com/JehanKandy/GYM-Management-System
+
 
 
 
