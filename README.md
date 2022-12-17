@@ -65,7 +65,7 @@ https://commits.top/sri_lanka_public.html
 - - https://github.com/JehanKandy/Online-Vehicle-Registration-System
 - Online Quize Project - Start to Develop on 01 September 2022 (UNDER-DEVELOPMENT)
 - - https://github.com/JehanKandy/Online-Quiz-System
-- Online GYM Management System - Start to Develop on 23 November 2022 (UNDER-DEVELOPMENT)
+- Online GYM Management System - Start to Develop on 23 November 2022 and End Development on 17 December 2022
 - - https://github.com/JehanKandy/GYM-Management-System
 
 
