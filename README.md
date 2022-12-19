@@ -5,9 +5,6 @@
  </div>
 </div>
 
-<div>
-  <img src="https://avatars.githubusercontent.com/u/89431184?v=4">
-</div>
 
 
 <br><br>
