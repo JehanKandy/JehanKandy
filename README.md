@@ -12,6 +12,8 @@
 
   View My Rank By GitHub: <br>
 https://commits.top/sri_lanka_public.html
+
+Total Coding :
 <div>
   <img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7.svg">
 </div> 
