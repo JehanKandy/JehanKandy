@@ -13,10 +13,28 @@
   View My Rank By GitHub: <br>
 https://commits.top/sri_lanka_public.html
 
-Total Coding :
-<div>
-  <img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7.svg">
-</div> 
+<h1>My Activities</h1>
+
+
+<table border="0">
+  <tr>
+    <td>
+      Total Coding Time (since 13 Dec 2022)
+    </td>
+    <td>
+      <div>
+        <img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7.svg">
+      </div> 
+    </td>
+    <td>
+      Total Views
+    </td>
+    <td>
+    <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> 
+    </td>
+  </tr>
+</table>  
+  
   
 <table border="0">
   <tr>
@@ -61,13 +79,10 @@ Total Coding :
 </table>  
   
 
+<h1>My Rankling</h1>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
-
-************************************************
 
 
 
