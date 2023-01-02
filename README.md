@@ -6,11 +6,7 @@
  </div>
 </div>
 
-<br><br>
-  Past Student of St.Sylvester's College Kandy
 
-
-  View My Rank By GitHub: <br>
 
 
 <h1>My Stats</h1>
