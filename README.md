@@ -39,27 +39,25 @@ Total Coding :
     </td>
   </tr>
   <tr>    
-    <td>
+    <td colspan="2" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-    </td>
-    <td>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehanKandy&theme=github_dark"/>
     </td>
   </tr>
   
   <tr>
-    <td align = "center">
-      
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jehankandy&theme=github_dark"/>
+      <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehanKandy&theme=github_dark"/>
     </td>
-    
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jehankandy&theme=github_dark"/>
-    </td>
+
   </tr>
-  
-  
-  
+  <tr>
+      <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehanKandy&theme=github_dark"/>
+    </td>
+      <td align = "center">      
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jehankandy&theme=github_dark"/>
+    </td> 
+  </tr> 
 </table>  
   
 
