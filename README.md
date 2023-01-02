@@ -81,6 +81,21 @@ https://commits.top/sri_lanka_public.html
 
 <h1>My Rankling</h1>
 
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://stardev.io/developers/JehanKandy"><img alt="Check out JehanKandy's profile on stardev.io" src="https://stardev.io/developers/JehanKandy/badge/languages/global.svg" /></a>
+    </td>
+    <td>
+    <a href="https://stardev.io/developers/JehanKandy"><img alt="Check out JehanKandy's profile on stardev.io" src="https://stardev.io/developers/JehanKandy/badge/languages/country.svg" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">    
+<a href="https://stardev.io/developers/JehanKandy"><img alt="Check out JehanKandy's profile on stardev.io" src="https://stardev.io/developers/JehanKandy/badge/languages/locality.svg" /></a>
+    </td>
+  </tr>
+</table>
 
 
 
