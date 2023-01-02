@@ -51,7 +51,7 @@ Total Coding :
 
   </tr>
   <tr>
-      <td>
+      <td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jehankandy&theme=github_dark"/>
     </td>
       <td align = "center">      
