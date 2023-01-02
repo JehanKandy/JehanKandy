@@ -5,6 +5,8 @@ inputs:
 
   # ====================================================================================
   # 🗃️ Base content
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.31
 
   base:
     description: Base content
