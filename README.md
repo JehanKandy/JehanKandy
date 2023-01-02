@@ -13,7 +13,7 @@
   View My Rank By GitHub: <br>
 https://commits.top/sri_lanka_public.html
 
-<h1>My Activities</h1>
+<h1>My Stats</h1>
 
 
 <table border="0">
