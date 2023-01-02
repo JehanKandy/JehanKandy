@@ -125,34 +125,6 @@ https://commits.top/sri_lanka_public.html
 - - https://github.com/JehanKandy/Train-Ticket-Booking-System-
 
 
-
-
-<br><hr><br>
-
-
-### My Stats
-
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=jehankandy)
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehanKandy&theme=github_dark"/>
-
-
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jehankandy&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jehankandy&theme=github_dark"/>
-
-
-
-### Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehankandy&langs_count=10&show_icons=true&theme=radical">
-
 ### My Rankings
 <a href="https://stardev.io/developers/JehanKandy"><img alt="Check out JehanKandy's profile on stardev.io" src="https://stardev.io/developers/JehanKandy/badge/languages/global.svg" /></a>
 
