@@ -11,7 +11,7 @@
 
 
   View My Rank By GitHub: <br>
-https://commits.top/sri_lanka_public.html
+
 
 <h1>My Stats</h1>
 
@@ -94,8 +94,11 @@ https://commits.top/sri_lanka_public.html
     <td colspan="2" align="center">    
 <a href="https://stardev.io/developers/JehanKandy"><img alt="Check out JehanKandy's profile on stardev.io" src="https://stardev.io/developers/JehanKandy/badge/languages/locality.svg" /></a>
     </td>
-  </tr>
+  </tr>  
 </table>
+
+https://commits.top/sri_lanka_public.html
+
 
 
 
