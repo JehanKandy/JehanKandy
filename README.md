@@ -18,19 +18,29 @@ Total Coding :
   <img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7.svg">
 </div> 
   
+<table border="0">
+  <tr>
+    <td>
+      <div>
+        <img src="https://wakatime.com/share/@JehanKandy/5464e75f-7bdc-4ae7-866e-f131d9e4d47e.svg" style="width:700px">
+      </div>
+    </td>
+    <td>
+        <div>
+          <img src="https://wakatime.com/share/@JehanKandy/7b6be400-0cd8-4937-81a0-d6d81b177934.svg" style="width:700px">
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <div>
+        <img src="https://wakatime.com/share/@JehanKandy/0de3934a-7118-4385-bf1b-00f27fec16d0.svg">
+      </div>
+    </td>
+  </tr>
+</table>  
   
-  
-<div>
-  <img src="https://wakatime.com/share/@JehanKandy/5464e75f-7bdc-4ae7-866e-f131d9e4d47e.svg" style="width:700px">
-</div>
 
-<div>
-  <img src="https://wakatime.com/share/@JehanKandy/7b6be400-0cd8-4937-81a0-d6d81b177934.svg" style="width:700px">
-</div>
-
-<div>
-  <img src="https://wakatime.com/share/@JehanKandy/0de3934a-7118-4385-bf1b-00f27fec16d0.svg">
-</div>
 
 
 
@@ -93,15 +103,15 @@ Total Coding :
 
 
 
-[![jehankandy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jehankandy&theme=blue-green)](https://github.com/JehanKandy/github-readme-streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehanKandy&theme=github_dark"/>
 
-[![JehanKandy's github activity graph](https://activity-graph.herokuapp.com/graph?username=JehanKandy&theme=gotham)](https://github.com/JehanKandy/github-readme-activity-graph&theme=github)
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JehanKandy&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JehanKandy&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jehankandy&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jehankandy&theme=github_dark"/>
 
 
 
