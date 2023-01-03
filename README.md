@@ -129,7 +129,7 @@ All libraries developed using C++
 
 | Application    | link | Use Language | Application Description | Developers |
 | -------------- |:----:|:------------:|:-----------------------:|:----------:|
-| Arduino Library for LED patterns | [View library](https://github.com/JehanKandy/Arduino-Library) | Arduino Basic library for LED patterns |  | [JehanKandy](https://github.com/JehanKandy) |
+| Web Browser | [link](https://github.com/JehanKandy/My-Own-Web-Browser-) | Python | Basic Web Browser using python and pyqt5 | [JehanKandy](https://github.com/JehanKandy) |
 | Arduino Bluetooth car Library | [View library](https://github.com/JehanKandy/Arduino-Bluetooth-car-Library) | Arduino Basic library for Control RC car using Bluetooth |  | [JehanKandy](https://github.com/JehanKandy) |
 
 
