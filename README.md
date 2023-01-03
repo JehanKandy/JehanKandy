@@ -123,8 +123,8 @@ https://commits.top/sri_lanka_public.html
       </th>
     </tr>
     <tr>
-      <td>
-        Online Selection Test Testing System
+      <td>        
+        <p> [Online Selection Test Testing System](https://github.com/JehanKandy/Online-Selection-Test-System) </p>        
       </td>
       <td>
         02 January 2023
@@ -134,9 +134,11 @@ https://commits.top/sri_lanka_public.html
       <td>
         Under Developing
       </td>
-      <td></td>
       <td>
-        [Jehankandy](https://github.com/JehanKandy)
+        <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/290a29cf-e0e1-4228-a5fa-b8e0a7879b20.svg"></p>
+      </td>
+      <td>        
+          Jehankandy        
       </td>
     </tr>
     
