@@ -101,48 +101,12 @@ https://commits.top/sri_lanka_public.html
 
 <h1>My Projects</h1>
 
-  <table bprder="0">
-    <tr>
-      <th>
-        Project
-      </th>
-      <th>
-        Start Develop
-      </th>
-      <th>
-        End Develop
-      </th>
-      <th>
-        Project Status
-      </th>
-      <th>
-        Working time
-      </th>
-      <th>
-        Developers
-      </th>
-    </tr>
-    <tr>
-      <td>        
-        <p> [Online Selection Test Testing System](https://github.com/JehanKandy/Online-Selection-Test-System) </p>        
-      </td>
-      <td>
-        02 January 2023
-      </td>
-      <td>      
-      </td>
-      <td>
-        Under Developing
-      </td>
-      <td>
-        <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/290a29cf-e0e1-4228-a5fa-b8e0a7879b20.svg"></p>
-      </td>
-      <td>        
-          Jehankandy        
-      </td>
-    </tr>
-    
-  </table>  
+| Project        | Start Development | End Development | Project Status | Working Time | Developers |
+| -------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 
 
