@@ -1,5 +1,11 @@
-
-
+### About Me
+- 🔭 I’m currently studying in Sri Lanka International Buddhist Academy (SIBA)
+- 🌱 I’m currently learning A Bachelor of Science in Information Technology
+- 👯 I’m looking to collaborate with who need my help for developing
+- 🤔 I’m looking for help with Android Development
+- 💬 Ask me about anything in developing
+- 📫 How to reach me: +94 71 1758 851 (WhatsApp) / jehankandy@gmail.com
+- 😄 Pronouns: JehanKandy
 
 
 <h1>My Stats</h1>
@@ -97,14 +103,6 @@ https://commits.top/sri_lanka_public.html
 
 
 
-### About Me
-- 🔭 I’m currently studying in Sri Lanka International Buddhist Academy (SIBA)
-- 🌱 I’m currently learning A Bachelor of Science in Information Technology
-- 👯 I’m looking to collaborate with who need my help for developing
-- 🤔 I’m looking for help with Android Development
-- 💬 Ask me about anything in developing
-- 📫 How to reach me: +94 71 1758 851 (WhatsApp) / jehankandy@gmail.com
-- 😄 Pronouns: JehanKandy
 
 - Campus Enrollment System - Start to Develop on 11 June 2022
 - - https://github.com/JehanKandy/Complete-Campus-Enrollment-System
