@@ -116,12 +116,6 @@ https://commits.top/sri_lanka_public.html
 
 
 
-- Campus Enrollment System - Start to Develop on 11 June 2022
-- - https://github.com/JehanKandy/Complete-Campus-Enrollment-System
-
-
-
-
 
 
 
