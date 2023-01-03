@@ -109,6 +109,7 @@ https://commits.top/sri_lanka_public.html
 | [Online Quize Project](https://github.com/JehanKandy/Online-Quiz-System) | 01 September 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
 | [Project Alpha](https://github.com/JehanKandy/Online-Vehicle-Registration-System) | 29 July 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
 | [Online Video Site System](https://github.com/JehanKandy/Online-Video-Site) | 3 July 2022 | 17 July 2022 | Developed | |  [JehanKandy](https://github.com/JehanKandy) |
+| [Online Campus Enrollment System](https://github.com/JehanKandy/Complete-Campus-Enrollment-System) | 11 June 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
 
 
 
@@ -117,12 +118,8 @@ https://commits.top/sri_lanka_public.html
 
 - Campus Enrollment System - Start to Develop on 11 June 2022
 - - https://github.com/JehanKandy/Complete-Campus-Enrollment-System
-- Wallpaper Download System - Start to Develop on 18 June 2022
-- - https://github.com/JehanKandy/Image-Site
-- E bill Alart System -Start to Develop on 21 June 2022
-- - https://github.com/JehanKandy/Online-Bill-Alert-System
-- Online Video Site System - Start to develop on 3 July 2022 and End up with Project on 17 July 2022
-- - https://github.com/JehanKandy/Online-Video-Site
+
+
 
 
 
