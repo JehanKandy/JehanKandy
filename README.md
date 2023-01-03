@@ -107,6 +107,8 @@ https://commits.top/sri_lanka_public.html
 | [Online Train Ticket Booking System](https://github.com/JehanKandy/Train-Ticket-Booking-System-) | 18 December 2022 | | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/67466c4b-ebc9-4e81-8250-db76db6d993a.svg"></p> |  [JehanKandy](https://github.com/JehanKandy) |
 | [Online GYM Management System](https://github.com/JehanKandy/GYM-Management-System) | 23 November 2022 | 17 December 2022 | Developed | |  [JehanKandy](https://github.com/JehanKandy) |
 | [Online Quize Project](https://github.com/JehanKandy/Online-Quiz-System) | 01 September 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
+| [Project Alpha](https://github.com/JehanKandy/Online-Vehicle-Registration-System) | 29 July 2022 |  | Under Developing | |  [JehanKandy](https://github.com/JehanKandy) |
+| [Online Video Site System](https://github.com/JehanKandy/Online-Video-Site) | 3 July 2022 | 17 July 2022 | Developed | |  [JehanKandy](https://github.com/JehanKandy) |
 
 
 
@@ -121,10 +123,7 @@ https://commits.top/sri_lanka_public.html
 - - https://github.com/JehanKandy/Online-Bill-Alert-System
 - Online Video Site System - Start to develop on 3 July 2022 and End up with Project on 17 July 2022
 - - https://github.com/JehanKandy/Online-Video-Site
-- Project Alpha - Start to Develop on 29 July 2022 (UNDER-DEVELOPMENT)
-- - https://github.com/JehanKandy/Online-Vehicle-Registration-System
-- Online Quize Project - Start to Develop on 01 September 2022 (UNDER-DEVELOPMENT)
-- - https://github.com/JehanKandy/Online-Quiz-System
+
 
 
 
