@@ -130,7 +130,7 @@ All libraries developed using C++
 | Application    | link | Use Language | Application Description | Developers |
 | -------------- |:----:|:------------:|:-----------------------:|:----------:|
 | Web Browser | [link](https://github.com/JehanKandy/My-Own-Web-Browser-) | Python | Basic Web Browser using python and pyqt5 | [JehanKandy](https://github.com/JehanKandy) |
-| Arduino Bluetooth car Library | [View library](https://github.com/JehanKandy/Arduino-Bluetooth-car-Library) | Arduino Basic library for Control RC car using Bluetooth |  | [JehanKandy](https://github.com/JehanKandy) |
+| Web Browser VER 2 | [link](https://github.com/JehanKandy/Web-Browser-VER-2) | Python |  Basic Web Browser using python and pyqt5  | [JehanKandy](https://github.com/JehanKandy) |
 
 
 
