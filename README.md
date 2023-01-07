@@ -78,7 +78,7 @@
 </table>  
   
 
-<h1>My Rankling</h1>
+<h1>My Ranking</h1>
 
 <table border="0">
   <tr>
