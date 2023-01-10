@@ -10,10 +10,11 @@
   </tr>
   <tr>
     <td><p><img src="https://avatars.githubusercontent.com/u/89431184?v=4" style="width:200px;"></p></td>
-    <td>
-      
-- sdasd
-      
+    <td>      
+       :man_student: I’m currently studying in Sri Lanka International Buddhist Academy (SIBA) <br><br>
+       :mortar_board: I’m currently fullowing A Bachelor of Science in Information Technology <br><br>
+       :school: Past Student of St.Sylvester's College. <br><br>
+       :e-mail: Email / jehankandy@gmail.com  <br><br>        
     </td>
 
   </tr>
