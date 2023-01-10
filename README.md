@@ -2,7 +2,12 @@
   <tr>
     <td><p><img src="https://avatars.githubusercontent.com/u/89431184?v=4" style="width:200px;"></p></td>
     <td>
-      JehanKandy
+      
+- :man_student: I’m currently studying in Sri Lanka International Buddhist Academy (SIBA)
+- :mortar_board: I’m currently fullowing A Bachelor of Science in Information Technology
+- :school: Past Student of St.Sylvester's College.
+- :e-mail: Email - jehankandy@gmail.com  
+      
     </td>
   </tr>
 </table>
