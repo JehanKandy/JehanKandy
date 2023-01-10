@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <p><img src="https://avatars.githubusercontent.com/u/89431184?v=4"></p>
+    <p><img src="https://avatars.githubusercontent.com/u/89431184?v=4" style="width:200px;"></p>
   </tr>
 </table>
 
