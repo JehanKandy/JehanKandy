@@ -26,7 +26,7 @@
       <img src="https://github.com/JehanKandy/JehanKandy/blob/main/images/jehan%20new%20edit-1.jpg?raw=true">
     </td>
     <td>
-    
+      <img src="https://github.com/JehanKandy/JehanKandy/blob/main/images/jehan%20new%20edit-2.jpg?raw=true">
     </td>
   </tr>
 </table>
