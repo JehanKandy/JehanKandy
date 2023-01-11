@@ -20,7 +20,16 @@
   </tr>
 </table>
 
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/JehanKandy/JehanKandy/blob/main/images/jehan%20new%20edit-1.jpg?raw=true">
+    </td>
+    <td>
+    
+    </td>
+  </tr>
+</table>
 
 
 <h1>My Stats</h1>
