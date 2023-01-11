@@ -14,7 +14,7 @@
        :desktop_computer: Founder of JKCSS - CSS Framework <br><br>
        :computer: Developer of JKCSS <br><br>
        :calling: Mobile  +94 711758851 <br><br>
-       :e-mail: Email / jehankandy@gmail.com  <br><br>        
+       :sri_lanka: Sri Lanka  <br><br>        
     </td>
 
   </tr>
