@@ -20,6 +20,8 @@
   </tr>
 </table>
 
+<h1>My CV</h1>
+
 <table>
   <tr>
     <td>
@@ -31,6 +33,7 @@
   </tr>
 </table>
 
+[My CV](https://github.com/JehanKandy/JehanKandy/blob/main/cv/jehan%20new%20edit.pdf)
 
 <h1>My Stats</h1>
 
