@@ -9,11 +9,11 @@
     </td>
   </tr>
   <tr>
-    <td><p><img src="https://avatars.githubusercontent.com/u/89431184?v=4" style="width:200px;"></p></td>
+    <td><p><img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4" style="width:200px;"></p></td>
     <td>      
        :desktop_computer: Founder of JKCSS - CSS Framework <br><br>
        :computer: Developer of JKCSS <br><br>
-       :school: Past Student of St.Sylvester's College. <br><br>
+       :calling: Mobile - +94 711758851 <br><br>
        :e-mail: Email / jehankandy@gmail.com  <br><br>        
     </td>
 
