@@ -12,7 +12,7 @@
     <td><p><img src="https://avatars.githubusercontent.com/u/89431184?v=4" style="width:200px;"></p></td>
     <td>      
        :desktop_computer: Founder of JKCSS - CSS Framework <br><br>
-       :mortar_board: I’m currently fullowing A Bachelor of Science in Information Technology <br><br>
+       :computer: Developer of JKCSS <br><br>
        :school: Past Student of St.Sylvester's College. <br><br>
        :e-mail: Email / jehankandy@gmail.com  <br><br>        
     </td>
