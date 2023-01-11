@@ -1,3 +1,5 @@
+<h1>About Me..! :yum: </h1>
+
 <table border="0">
   <tr>
     <td><p><img src="https://avatars.githubusercontent.com/u/89431184?v=4" style="width:200px;"></p></td>
@@ -105,7 +107,7 @@
 </table>  
   
 
-<h1>My Ranking</h1>
+<h1>My Ranking :1st_place_medal: :2nd_place_medal: :3rd_place_medal: :trophy:</h1>
 
 <table border="0">
   <tr>
