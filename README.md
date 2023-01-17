@@ -141,6 +141,11 @@
 
 | User Language | Frameworks |
 |:-------------:|:----------:|
+| PHP           |  Bootstrap |
+| Mysql         |            |
+| CSS           |            |
+| Javascript    |            |
+
 
 | Project        | Start Development | End Development | Project Status | Working Time | Developers |
 | -------------- |:-----------------:| :--------------:| :-------------:| :-----------:| :---------:|
