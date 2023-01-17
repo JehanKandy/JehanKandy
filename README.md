@@ -129,7 +129,9 @@
   </tr>  
 </table>
 
-<h3>Most active GitHub users in Sri Lanka. [Rankings](https://commits.top/sri_lanka_public.html) </h3>
+<h3>Most active GitHub users in Sri Lanka. 
+ 
+[Rankings](https://commits.top/sri_lanka_public.html) </h3>
 
 <h1>My Frameworks</h1>
 
