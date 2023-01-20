@@ -22,6 +22,8 @@
   </tr>
 </table>
 
+<a href="https://app.daily.dev/jehankandy"><img src="https://api.daily.dev/devcards/fa7dd7268a2c4018a6ad67364f07efb3.png?r=30a" width="400" alt="JehanKandy's Dev Card"/></a>
+
 <h1>My CV</h1>
 
 <table>
