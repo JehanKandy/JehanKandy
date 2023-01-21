@@ -80,7 +80,7 @@ OS
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 
 Prototyping Platforms
-<img src="">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="">
 <img src="">
 <img src="">
