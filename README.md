@@ -91,7 +91,6 @@ Social
 
 Streaming 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-<img src="">
 
 Terminal 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -102,7 +101,7 @@ Virtualization
 
 Web Browsers
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-<img src="">
+<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 <img src="">
 <img src="">
 <img src="">
