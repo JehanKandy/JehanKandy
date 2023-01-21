@@ -65,6 +65,12 @@ Languages
 
 Mobile
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
+Office 
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+<img src="">
+<img src="">
+<img src="">
 <img src="">
 <img src="">
 <img src="">
