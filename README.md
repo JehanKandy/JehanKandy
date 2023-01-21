@@ -92,12 +92,14 @@ Social
 Streaming 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
-Terminal 
+<h5>Terminal</h5>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
-Virtualization 
+<h5>Virtualization</h5>
+</span>
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
+</span>
 
 <h5>Web Browsers</h5>
 <span>
