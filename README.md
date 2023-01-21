@@ -101,6 +101,22 @@ Virtualization
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 <img src="">
 <img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
 
 <h1>My CV</h1>
 
