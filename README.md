@@ -1,3 +1,4 @@
+
 <h1>About Me..! :yum: </h1>
  
 <table border="0">
@@ -113,7 +114,12 @@
       <td align = "center">      
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jehankandy&theme=github_dark"/>
     </td> 
-  </tr> 
+  </tr>
+ <tr>
+  <td colspan="2">
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jehankandy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  </td>
+ </tr>
 </table>  
   
 
