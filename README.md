@@ -25,7 +25,7 @@
 
 <a href="https://app.daily.dev/jehankandy"><img align="right" src="https://api.daily.dev/devcards/fa7dd7268a2c4018a6ad67364f07efb3.png?r=30a" width="400" alt="JehanKandy's Dev Card"/></a>
 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+
 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 
@@ -90,6 +90,7 @@ Prototyping Platforms
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </span>
  
 <h5>Streaming</h5> 
