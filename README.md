@@ -92,7 +92,9 @@ Social
 Streaming 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 <img src="">
-<img src="">
+
+Terminal 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="">
 <img src="">
 <img src="">
