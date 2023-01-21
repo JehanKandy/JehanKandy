@@ -84,7 +84,7 @@ Prototyping Platforms
 
 Social
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 <img src="">
 <img src="">
 <img src="">
