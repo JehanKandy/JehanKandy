@@ -26,7 +26,14 @@
 <a href="https://app.daily.dev/jehankandy"><img align="right" src="https://api.daily.dev/devcards/fa7dd7268a2c4018a6ad67364f07efb3.png?r=30a" width="400" alt="JehanKandy's Dev Card"/></a>
 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+
+
+
+
 <h1>My CV</h1>
+
 
 <table>
   <tr>
