@@ -99,6 +99,8 @@ Terminal
 Virtualization 
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
+
+Web Browsers
 <img src="">
 <img src="">
 <img src="">
