@@ -19,7 +19,6 @@
        :calling: Mobile  +94 711758851 <br><br>
        :sri_lanka: Sri Lanka  <br><br>        
     </td>
-
   </tr>
 </table>
 
