@@ -258,7 +258,7 @@
 
 <h1>My Web-Based Projects</h1>
 
-| User Language | Frameworks |
+| Use Language | Frameworks |
 |:-------------:|:----------:|
 | PHP           |  Bootstrap |
 | Mysql         |            |
