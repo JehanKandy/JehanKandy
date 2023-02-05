@@ -1,5 +1,4 @@
-<h1>About Me..! :yum: </h1>
-        
+<h1>About Me..! :yum: </h1>        
 <table border="0">
   <tr>
     <td><p><img src="https://avatars.githubusercontent.com/u/89431184?v=4" style="width:200px;"></p></td>
