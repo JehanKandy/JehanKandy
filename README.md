@@ -259,7 +259,7 @@
 | Use Language | Frameworks |
 |:-------------:|:----------:|
 | PHP           |  Bootstrap |
-| Mysql         |            |
+| Mysql         | Laravel    |
 | CSS           |            |
 | Javascript    |            |
 
