@@ -162,46 +162,8 @@
 <h1>My Stats</h1>
 <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> 
 
-<table border="0">
-  <tr>
-    <td>
-      Total Coding Time (since 13 Dec 2022)
-    </td>
-    <td>
-      <div>
-        <img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7.svg">
-      </div> 
-    </td>
-    <td>
-      Total Views
-    </td>
-    <td>
-    
-    </td>
-  </tr>
-</table>  
-  
   
 <table border="0">
-  <tr>
-    <td>
-      <div>
-        <img src="https://wakatime.com/share/@JehanKandy/5464e75f-7bdc-4ae7-866e-f131d9e4d47e.svg" style="width:700px">
-      </div>
-    </td>
-    <td>
-        <div>
-          <img src="https://wakatime.com/share/@JehanKandy/7b6be400-0cd8-4937-81a0-d6d81b177934.svg" style="width:700px">
-        </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <div>
-        <img src="https://wakatime.com/share/@JehanKandy/0de3934a-7118-4385-bf1b-00f27fec16d0.svg">
-      </div>
-    </td>
-  </tr>
   <tr>    
     <td>
 <img src="https://github-readme-stats.vercel.app/api?username=jehankandy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
