@@ -160,7 +160,7 @@
 
 
 <h1>My Stats</h1>
-
+<img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> 
 
 <table border="0">
   <tr>
@@ -176,7 +176,7 @@
       Total Views
     </td>
     <td>
-    <img src="https://komarev.com/ghpvc/?username=jehankandy&label=Views&color=blue&style=plastic" alt="iampawan" /> 
+    
     </td>
   </tr>
 </table>  
