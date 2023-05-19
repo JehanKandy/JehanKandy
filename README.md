@@ -215,9 +215,9 @@
 
 <h1>My Frameworks</h1>
 
-| Project        | Start Development | End Development | Project Status | Working Time | Developers | Version |
-| -------------- |:-----------------:| :--------------:| :-------------:| :-----------:| :---------:| :------:|
-| CSS Framework - [JKCSS](https://github.com/JKCSS/JKCSS-Framework) | May 8, 2023 | | Under Developing | <p align="center"><img src="https://wakatime.com/badge/user/0ac30051-5698-4ae9-851e-7d4853d4aba7/project/d7192d88-32ab-40ca-b412-14b4249db230.svg"></p> | [JehanKandy](https://github.com/JehanKandy) | v1 |
+| Project        | Start Development | End Development | Project Status | Developers | Version | Status |
+| -------------- |:-----------------:| :--------------:| :-------------:| :---------:| :------:| :------:|
+| CSS Framework - [JKCSS](https://github.com/JKCSS/JKCSS-Framework) | May 8, 2023 | | Under Developing | [JehanKandy](https://github.com/JehanKandy) | v0.1.0 | Pre-release |
 
 <h1>My Web-Based Projects</h1>
 
