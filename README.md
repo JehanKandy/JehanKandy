@@ -190,7 +190,7 @@
   </tr>
 </table>  
   
-[JehanKandy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JehanKandy)
+[![JehanKandy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JehanKandy)](https://github.com/JehanKandy/github-readme-activity-graph)
 
 <h1>My Ranking :1st_place_medal: :2nd_place_medal: :3rd_place_medal: :trophy:</h1>
 
