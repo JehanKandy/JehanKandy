@@ -190,7 +190,7 @@
   </tr>
 </table>  
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jehankandy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JehanKandy)
 
 <h1>My Ranking :1st_place_medal: :2nd_place_medal: :3rd_place_medal: :trophy:</h1>
 
